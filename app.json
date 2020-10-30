@@ -1,0 +1,8 @@
+{
+  "name": "Start on Heroku: Node.js",
+  "description": "Favorite books4",
+  "repository": "https://github.com/Centennnial/COMP229-F2020-MidTerm-301106486",
+  "logo": "",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
